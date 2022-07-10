@@ -24,21 +24,21 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🤖GroupBot🤖',
-               url: 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+               url: 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'YOUTUBE ME',
-               url: 'https://youtu.be/tH-0Uq_s_H4'
+               displayText: 'DONASI',
+               url: 'Pulsa [083183321692] (Axis)'
              }
 
            },
                {
              quickReplyButton: {
                displayText: 'JANGAN DIPENCET',
-               id: '',
+               id: 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd',
              }
              
            },
