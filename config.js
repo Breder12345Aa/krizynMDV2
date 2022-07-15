@@ -20,7 +20,7 @@ global.pulsa = '0831833321692'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'B O T - M D'
+global.namebot = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
 global.gc = 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd'
 global.web = 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '-'
