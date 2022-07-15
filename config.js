@@ -11,7 +11,7 @@ global.mods = ['6283183321692']
 global.prems = ['6283183321692'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerOfc ✰'
+global.nameowner = '☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎'
 global.numberowner = '6283183321692'
 global.instagram = '-'
 global.github = 'https://github.com/warikrr'
@@ -31,10 +31,10 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻Botz𝙼𝙳'
+global.wm = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 BOT Ofc ×፝֟͜×'
-global.wm3 = 'ᯤ BOT 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
+global.wm3 = 'ᯤ ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
